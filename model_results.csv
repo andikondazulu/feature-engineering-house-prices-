@@ -1,7 +1,0 @@
-,pathway,model,cv_rmse_log_saleprice
-3,B: label-encode all,RandomForest,0.1434
-1,A: mixed,RandomForest,0.1453
-5,C: one-hot all,RandomForest,0.1478
-2,B: label-encode all,LinearRegression,0.1574
-0,A: mixed,LinearRegression,0.1592
-4,C: one-hot all,LinearRegression,0.1599
